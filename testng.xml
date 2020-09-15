@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="ChewyTest" verbose="1" >
+  <test name="Chewy Coding Test" >
+    <classes>
+       <class name="com.chewy.test.seleniumTest.chewy.tests.ChewySampleTest" />
+    </classes>
+  </test>
+ </suite>
